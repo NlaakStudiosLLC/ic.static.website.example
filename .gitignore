@@ -1,0 +1,6 @@
+.idea
+*.db
+*.dat
+*.exe
+.dfx/
+.node_modules/
