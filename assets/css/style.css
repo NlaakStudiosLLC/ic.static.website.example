@@ -1,5 +1,5 @@
 body{background:url(../images/bg-ic.jpeg) no-repeat center/cover;font-family: 'Poppins', sans-serif; height:150vh; }
-html	{font-size:16px}
+html	{font-size:16px;background-color: #130b22;}
 h1,h2,h3,h4,h5,h6{color: deeppink;}
 /*  BURGER MENU
 ========================================== */
