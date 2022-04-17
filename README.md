@@ -73,11 +73,13 @@ Left side is IC Website Canister with missing Background image (relative path to
 
 ## Solution
 
+So, if you are getting `400 -Bad Request` errors ...
+
 Do not use: `http://localhost:3000?canisterId=<CANISTER-ID>`
 
 Instead always use: `http://rrkah-fqaaa-aaaaa-aaaaq-cai.localhost:8000`
 
-Seems silly, it is also annoying and I think they should apply a fix for this. But for now, this is the fix,
+Seems silly, it is also annoying and I think they should apply a fix for this. But for now, this is the fix.
 
 ## Contact
 
