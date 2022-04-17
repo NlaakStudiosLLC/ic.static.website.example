@@ -61,3 +61,9 @@ Deployed canisters.
 Now, open the file `.dfx/local/canister_ids.json` and get your canister id `website.local` and add it to the url below
 
 Open browser at `http://localhost:3000?canisterId=<CANISTER-ID>`
+
+## Results
+
+![alt text](https://github.com/NlaakStudiosLLC/ic.static.website.example/blob/main/.design/ic-website-broken.jpg?raw=true)
+
+Left side is IC Website Cansiter with missing Background image (relative path to local image) and the right side is the local Express server with working Background image (relative path to local image). Identical Code
