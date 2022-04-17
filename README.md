@@ -2,7 +2,6 @@
 
 Dfinity Internet Computer Static Website example using (Bootstrap, jQuery and fontawesome) via CDN
 
-
 ## Example Deployment (local)
 
 ```bash

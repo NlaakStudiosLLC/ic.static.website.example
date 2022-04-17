@@ -235,7 +235,9 @@ transition: all 0.3s ease;
 #nav ul.sub li a:hover {
 color: #b7ac7f;
 }
-.menu:hover span{}
+.menu:hover span{
+    font-size: inherit;
+}
 
 /*  OVERLAY
 ========================================== */
