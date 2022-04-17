@@ -71,6 +71,14 @@ Open browser at `http://localhost:3000?canisterId=<CANISTER-ID>`
 
 Left side is IC Website Canister with missing Background image (relative path to local image) and the right side is the local Express server with working Background image (relative path to local image). Identical Code
 
+## Solution
+
+Do not use: `http://localhost:3000?canisterId=<CANISTER-ID>`
+
+Instead always use: `http://rrkah-fqaaa-aaaaa-aaaaq-cai.localhost:8000`
+
+Seems silly, it is also annoying and I think they should apply a fix for this. But for now, this is the fix,
+
 ## Contact
 
 [Dfinity IC Discord Dev Server](https://discord.gg/gYWyuBVQzR)
