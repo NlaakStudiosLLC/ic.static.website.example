@@ -1,5 +1,5 @@
 
-# ic.static.website.example
+# Dfinity IC Example Static Website
 
 ![alt text](https://github.com/NlaakStudiosLLC/ic.static.website.example/blob/main/.design/ic-website.jpg?raw=true)
 
