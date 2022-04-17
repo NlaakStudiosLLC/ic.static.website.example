@@ -5,7 +5,6 @@
 
 Dfinity Internet Computer Static Website example using (Bootstrap, jQuery and fontawesome) via CDN
 
-
 ## Express Example Deployment (local :3000)
 
 Open a separate window/shell to start your local dev with express
@@ -37,7 +36,7 @@ dfx deploy
 
 Example Output:
 
-```
+```bash
 Creating a wallet canister on the local network.
 The wallet canister on the "local" network for user "default" is "rno2w-sqaaa-aaaaa-aaacq-cai"
 Deploying all canisters.
