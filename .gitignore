@@ -3,4 +3,4 @@
 *.dat
 *.exe
 .dfx/
-.node_modules/
+node_modules/

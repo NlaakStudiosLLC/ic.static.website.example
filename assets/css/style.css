@@ -1,5 +1,5 @@
-body{background:url(https://theme.zdassets.com/theme_assets/9484680/0bad3d977081de5aaa6d3640023aa4a17b4b9eea.jpeg) no-repeat center/cover;font-family: 'Poppins', sans-serif; height:150vh; }
-html	{font-size:16px}
+body{background:url(../images/bg-ic.jpeg) no-repeat center/cover;font-family: 'Poppins', sans-serif; height:150vh; }
+html	{font-size:16px;background-color: #130b22;}
 h1,h2,h3,h4,h5,h6{color: deeppink;}
 /*  BURGER MENU
 ========================================== */

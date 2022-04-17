@@ -1,0 +1,24 @@
+{
+    "name": "icwebsiteexample",
+    "version": "1.0.0",
+    "description": "Dfinity Internet Computer Static Website example using (Bootstrap, jQuery and fontawesome) via CDN",
+    "main": "index.html",
+
+    "scripts": {
+      "start": "npm run serve",
+      "serve": "node server.js"
+    },
+    "repository": {
+      "type": "git",
+      "url": "git+https://github.com/NlaakStudiosLLC/ic.static.website.example.git"
+    },
+    "author": "Andrew Donelson",
+    "license": "ISC",
+    "bugs": {
+      "url": "https://github.com/NlaakStudiosLLC/ic.static.website.example/issues"
+    },
+    "homepage": "https://github.com/NlaakStudiosLLC/ic.static.website.example#readme",
+    "devDependencies": {
+      "express": "^4.17.1"
+    }
+  }
