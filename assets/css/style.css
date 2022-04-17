@@ -1,6 +1,6 @@
 body{background:url(https://theme.zdassets.com/theme_assets/9484680/0bad3d977081de5aaa6d3640023aa4a17b4b9eea.jpeg) no-repeat center/cover;font-family: 'Poppins', sans-serif; height:150vh; }
-html	{font-size:14px}
-
+html	{font-size:16px}
+h1,h2,h3,h4,h5,h6{color: deeppink;}
 /*  BURGER MENU
 ========================================== */
 .menu {
@@ -80,7 +80,7 @@ cursor: pointer;
 ========================================== */
 
 #nav {
-background: #211316;
+background: #292a2e;
 position: fixed;
 z-index: 20;
 top: 0;
@@ -259,4 +259,34 @@ visibility: hidden;
 .overlay.show {
 opacity: 0.8;
 visibility: visible;
+}
+
+
+
+
+span{
+    font-size:14px;
+    color: darkgrey
+}
+a{
+  text-decoration:none; 
+  color: #fbb03b;
+  border-bottom:2px solid #fbb03b;
+}
+.box{
+    padding:60px 0px;
+}
+
+.box-part{
+    background:#32194ce6;
+    border-radius:0;
+    padding:60px 10px;
+    margin:30px 0px;
+}
+.text{
+    margin:20px 0px;
+}
+
+.fa{
+     color:#5c96f8;
 }
