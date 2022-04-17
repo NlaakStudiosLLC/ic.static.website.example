@@ -1,4 +1,7 @@
+
 # ic.static.website.example
+
+![alt text](https://github.com/NlaakStudiosLLC/ic.static.website.example/blob/main/ic-website.jpg?raw=true)
 
 Dfinity Internet Computer Static Website example using (Bootstrap, jQuery and fontawesome) via CDN
 
