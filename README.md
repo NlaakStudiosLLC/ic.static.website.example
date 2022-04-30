@@ -1,5 +1,5 @@
 
-# Dfinity IC Example Static Website
+# Dfinity IC Example Static Website (Vanilla Javascript)
 
 ![alt text](https://theme.zdassets.com/theme_assets/9484680/b1e5f381a9c2478e0ef9684d711f7307fc420c70.gif)
 
